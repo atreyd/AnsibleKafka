@@ -1,0 +1,4 @@
+[kafka-nodes]
+kafka-01 ansible_host=192.168.0.1 ansible_user=root ansible_ssh_pass=AsdQwe123
+kafka-02 ansible_host=192.168.0.2 ansible_user=root ansible_ssh_pass=AsdQwe123
+kafka-03 ansible_host=192.168.0.3 ansible_user=root ansible_ssh_pass=AsdQwe123
